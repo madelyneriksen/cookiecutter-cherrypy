@@ -1,0 +1,11 @@
+backports.functools-lru-cache==1.5
+cheroot==6.3.3
+CherryPy==16.0.3
+Jinja2==2.10
+MarkupSafe==1.0
+more-itertools==4.2.0
+peewee==3.5.2
+portend==2.3
+pytz==2018.5
+six==1.11.0
+tempora==1.12
