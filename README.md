@@ -7,7 +7,7 @@ Cherrypy is amazing and very tiny; in fact, it's really, really tiny. I often fi
 
 Enter cookiecutter!
 
-This is an opinionated template that inclues PeeWee, Jinja2, and CherryPy for bootstraping a small site or a microservice. If you'd like to use a template without them, feel free to fork and customize away :)
+This is an opinionated template that inclues PeeWee, Jinja2, and CherryPy for bootstraping a small site or a microservice. If you'd like to use Cherrypy and this template without them, feel free to fork and customize away :)
 
 Requirements
 ------------
@@ -19,7 +19,9 @@ In addition, the requirements.txt file only works with Python3. You may need dif
 Usage
 -----
 Generate a new Cookiecutter template layout: 
-`cookiecutter gh:madelyneriksen/cookiecutter-cherrycutter`
+```
+cookiecutter gh:madelyneriksen/cookiecutter-cherrycutter
+```
 
 Install Requirements:
 ```
@@ -35,6 +37,10 @@ python cli.py
 
 Visit "localhost:8080/" in your browser for a "Hello World!"
 
+To Do
+-----
+* Add template README and License
+* Possibly replace project_slug in the module
 
 License
 -------
