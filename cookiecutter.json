@@ -7,6 +7,5 @@
     "project_short_description": "A short description of the project",
     "release_date": "{% now 'local' %}",
     "version": "0.1.0",
-    "_extensions": ["jinja2_time.TimeExtension"],
-    "_project_dir": "{{ os.getcwd() + cookiecutter.project_slug }}"
+    "_extensions": ["jinja2_time.TimeExtension"]
 }
