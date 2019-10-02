@@ -20,7 +20,7 @@ Usage
 -----
 Generate a new Cookiecutter template layout: 
 ```
-cookiecutter gh:madelyneriksen/cookiecutter-cherrycutter
+cookiecutter gh:madelyneriksen/cookiecutter-cherrypy
 ```
 
 Install Requirements:
